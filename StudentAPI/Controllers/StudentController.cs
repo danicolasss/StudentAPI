@@ -11,7 +11,7 @@ namespace StudentAPI.Controllers
     {
         private MapperConfig mapperConfig;
 
-        public StudentController( MapperConfig mapperConfig)
+        public StudentController(MapperConfig mapperConfig)
         {
 
         }
